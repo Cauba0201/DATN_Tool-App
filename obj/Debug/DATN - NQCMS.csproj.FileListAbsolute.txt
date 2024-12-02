@@ -1,0 +1,15 @@
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\bin\Debug\DATN - NQCMS.exe.config
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\bin\Debug\DATN - NQCMS.exe
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\bin\Debug\DATN - NQCMS.pdb
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS.csproj.AssemblyReference.cache
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\MainWindow.g.cs
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\App.g.cs
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS_MarkupCompile.cache
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS_MarkupCompile.lref
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\MainWindow.baml
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS.g.resources
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN___NQCMS.Properties.Resources.resources
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS.csproj.GenerateResource.cache
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS.csproj.CoreCompileInputs.cache
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS.exe
+D:\Annguyen\DoAnTotNghiep\Tool App\DATN - NQCMS\DATN - NQCMS\obj\Debug\DATN - NQCMS.pdb
